@@ -1,0 +1,11 @@
+{
+	"scan": {
+		"text":"QR code data is:",
+		"title": "scanning code",
+		"tips": "prompt text for page display",
+		"light": "light touch",
+		"album": "album",
+		"cancel": "user deselect",
+		"error": "unrecognized"
+	}
+}

@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"codeData{ height: ",[0,300],"; width: ",[0,690],"; margin: ",[0,30],"; border: 1px solid #efefef; text-align: justify; text-justify: newspaper; word-break: break-all; }\n.",[1],"codeBtn{ width: 50%; margin: ",[0,10]," auto; }\n",],undefined,{path:"./pages/index/index.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/index/index.wxml') } }));

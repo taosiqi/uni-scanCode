@@ -1,0 +1,15 @@
+
+.codeData{
+	height: 300rpx;
+	width: 690rpx;
+	margin: 30rpx;
+	border: 1px solid #efefef;
+	text-align: justify;
+	text-justify: newspaper;
+	word-break: break-all;
+}
+.codeBtn{
+	width: 50%;
+	margin: 10rpx auto;
+}
+
