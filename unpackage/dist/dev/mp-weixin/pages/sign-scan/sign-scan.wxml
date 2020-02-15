@@ -1,2 +1,0 @@
-<import src="./sign-scan.vue.wxml" />
-    <template is="aec12528" data="{{ ...$root['0'], $root }}"/>
