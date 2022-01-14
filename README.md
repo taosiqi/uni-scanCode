@@ -1,13 +1,7 @@
-# uni-scanCode
-
-[DCloud 插件市场地址](https://ext.dcloud.net.cn/plugin?id=1299)
-
-## uni-app多语言配置，自定义二维码扫码界面 app端专用，安卓ios兼容
-
-1. [安装npm](https://uniapp.dcloud.io/frame?id=npm支持)
-2. 照葫芦画瓢，注释都写上了。有什么问题联系QQ：1870894297
-
-## 展示
+# uni-scanCode uni-app多语言配置，自定义二维码扫码界面 app端专用，安卓ios兼容
+*开发者需要正向激励，您的star是我继续开发的动力*
+*[DCloud 插件市场地址](https://ext.dcloud.net.cn/plugin?id=1299)*
+### 展示
 
 ![](https://github.com/taosiqi/uni-scanCode/blob/master/static/git/S00215-16052641.png)
 
